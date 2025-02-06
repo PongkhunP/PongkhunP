@@ -35,10 +35,10 @@ I'm a **third-year Computer Science student at King Mongkut’s University of Te
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 - 🔹 **Game Development**  
-  ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)
   ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge)
   ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
   ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
+  ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)
 
 - 🔹 **DevOps & Deployment**  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
