@@ -6,7 +6,7 @@
 
 
 ### 📝 About Me  
-I'm a **third-year Computer Science student at King Mongkut’s University of Technology Thonburi** with a passion for **web application development, game development, and cloud engineering**. I love **exploring new technologies** and creating **innovative solutions** that make an impact.
+I'm a Computer Science student at King Mongkut’s University of Technology Thonburi** with a passion for **web application development, game development, and cloud engineering**. I love **exploring new technologies** and creating **innovative solutions** that make an impact.
 
 ---
 <div align="left">
