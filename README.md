@@ -9,9 +9,6 @@
 I'm a Computer Science student at King Mongkut’s University of Technology Thonburi** with a passion for **web application development, game development, and cloud engineering**. I love **exploring new technologies** and creating **innovative solutions** that make an impact.
 
 ---
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PongkhunP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
 
 ### 💡 What I Do:
 
